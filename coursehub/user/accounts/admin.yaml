@@ -1,0 +1,21 @@
+email: yangkecoy@gmail.com
+fullname: 'Ke Yang'
+title: admin
+state: enabled
+access:
+  admin:
+    super: 'true'
+    login: 'true'
+  site:
+    login: 'true'
+hashed_password: $2y$10$p7reQzlfELKPhOW87o4dLOvIUcqruqykuYKckHHczLigioIxXOIny
+language: en
+login_attempts: {  }
+twofa_secret: SVXV5OO7TFHNOASQ2A64WXY7RXZBV3YQ
+twofa_enabled: false
+avatar:
+  user/accounts/avatars/9jctEORIqreJBuf.jpeg:
+    name: 9jctEORIqreJBuf.jpeg
+    type: image/jpeg
+    size: 780831
+    path: user/accounts/avatars/9jctEORIqreJBuf.jpeg

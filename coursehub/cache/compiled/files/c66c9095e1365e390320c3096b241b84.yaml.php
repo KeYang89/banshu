@@ -1,0 +1,14 @@
+<?php
+return [
+    '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
+    'filename' => 'C:/xampp/htdocs/seniorknows/new_seniorknows_site_by_KeYang/coursehub/user/plugins/feed/feed.yaml',
+    'modified' => 1512492118,
+    'data' => [
+        'enabled' => true,
+        'limit' => 10,
+        'description' => 'My Feed Description',
+        'lang' => 'en-us',
+        'length' => 500,
+        'enable_json_feed' => false
+    ]
+];

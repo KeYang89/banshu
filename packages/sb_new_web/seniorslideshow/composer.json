@@ -1,0 +1,15 @@
+{
+  "name": "seniorslideshow/slideshow-widget",
+  "version": "1.0.0",
+  "type": "sb_new_web-extension",
+  "title": "图片播放",
+  "description": "Add a slideshow to any position.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ke Yang",
+      "email": "kyang1@sbec.com",
+      "homepage": "http://seniorknows.com"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "sb_new_web/analytics",
+    "type": "sb_new_web-extension",
+    "version": "1.0.1",
+    "title": "Analytics",
+    "description": "User monitoring for dashboard.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SBWebApplication",
+            "email": "info@seniorknows.com",
+            "homepage": "http://seniorknows.com"
+        }
+    ],
+    "require": {
+        "lusitanian/oauth": "~0.3.5"
+    },
+    "extra": {
+        "icon": "icon.svg",
+        "scripts": "scripts.php"
+    },
+    "archive": {
+        "exclude": ["node_modules", "!/app"]
+    }
+}

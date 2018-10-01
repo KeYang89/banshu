@@ -1,0 +1,22 @@
+{
+    "name": "sb_new_web/blog",
+    "type": "sb_new_web-extension",
+    "version": "1.0.5",
+    "title": "发布消息",
+    "description": "A blog extensions with a built-in comment system.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SBWebApplication",
+            "email": "kyang1@sbec.com",
+            "homepage": "http://seniorknows.com"
+        }
+    ],
+    "extra": {
+        "icon": "icon.svg",
+        "scripts": "scripts.php"
+    },
+    "archive": {
+        "exclude": ["node_modules", "!/app"]
+    }
+}

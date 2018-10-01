@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Audio book with 3D interaction for kids">
+  <meta name="keywords" content="Audio book, 3D">
+  <meta name="author" content="Ke Yang">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Little Prince</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<div id="bookwrap" onclick="createBook(50,'french')">
+<div id="readbutton">
+ <audio controls>
+   <source src="Little_Pince_French.mp3" type='audio/mpeg; codecs="mp3"'>
+   <span>您的浏览器不支持</span>
+</audio>
+	<div class="animated-icon">
+	<div class="book-cover"></div>
+ 	<div class="page"></div> 
+</div></div>
+<div id="booktitle" style="margin-top:0px;"><div class="typewriter"><h1>Le Petit prince, CHAPITRE XXI</h1></div></div>
+<div id="book" style="margin-top:0px;"></div>
+</div>
+<div id="world"></div>
+
+  <script type="text/javascript" src="js/TweenMax.min.js"></script>
+  <script src='js/three.min.js'></script>
+  <script  src="js/index.js"></script>
+
+</body>
+</html>

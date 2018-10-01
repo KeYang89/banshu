@@ -1,0 +1,22 @@
+{
+    "name": "sb_new_web/theme-sb_new_web",
+    "type": "sb_new_web-theme",
+    "version": "1.0.0",
+    "title": "SJZD",
+    "description": "Suport a classical and modular layout. It includes 6 totally different styles.",
+    "license": "MIT",
+    "copyright": "(c) 2016 SBWebApplication",
+    "authors": [
+        {
+            "name": "SBWebApplication",
+            "email": "info@seniorknows.com",
+            "homepage": "http://seniorknows.com"
+        }
+    ],
+    "extra": {
+        "image": "image.jpg"
+    },
+    "archive": {
+        "exclude": ["!/app", "!/css", "/app/assets"]
+    }
+}

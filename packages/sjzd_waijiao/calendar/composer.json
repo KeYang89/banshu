@@ -1,0 +1,20 @@
+{
+    "name": "sjzd_waijiao/calendar",
+    "version": "1.0.0",
+    "type": "sb_new_web-extension",
+    "title": "外教日程管理",
+    "license": "MIT",
+    "copyright": "(c) 2017 Senior Knows",
+    "description" : "Calendar extension for SBWebApplication",
+    "authors": [
+        {
+            "name": "Some Senior Knows Dev",
+            "email": "support@seniorknows.com",
+            "homepage": "http://www.seniorknows.com"
+        }
+    ],
+    "extra": {
+       "scripts": "scripts.php",
+       "icon":"icon.svg"
+    }
+}

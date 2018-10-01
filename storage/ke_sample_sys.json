@@ -1,0 +1,5 @@
+{"latest":{"version":"1.0.1","changelog":"This is a test update log, do not do anything","published_at":"2017-09-31T14:34:15Z"},
+
+  "versions":{"1.0.0":{"version":"1.0.0","changelog":"Initial publish, meeting for alpha testing","published_at":"2017-10-05T14:34:15Z","url":"https:\/\/sbec_portal.com\/api\/download\/1.0.0","shasum":"5f20b70fbbd1bc7812878674b84317d626af934b"}},
+
+}
